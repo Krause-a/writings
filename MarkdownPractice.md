@@ -1,6 +1,4 @@
-This should be a document going over my wolberts contribution.
-
-No. This will be a document of whatever questions I have.
+This will be a document of whatever questions I have.
 
 ### 1. How can I setup a comfortable setup for my keyboard?
 
